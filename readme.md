@@ -17,4 +17,5 @@ The purpose is to practice Git and GitHub basics like clone, branch, merge, fork
 
 ## Contributors
 - SUBHAN AHMAD(BCT-030)
-- FARIA JAVAID(BCT-006)
+
+
